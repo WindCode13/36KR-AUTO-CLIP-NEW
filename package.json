@@ -1,0 +1,14 @@
+{
+  "name": "36kr-auto-clip",
+  "version": "1.0.0",
+  "description": "自动打开 36氪文章并调用飞书剪存插件保存页面内容",
+  "main": "clip.js",
+  "scripts": {
+    "start": "node clip.js"
+  },
+  "author": "qingtian",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer-core": "^24.6.1"
+  }
+}
